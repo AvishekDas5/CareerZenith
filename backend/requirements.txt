@@ -1,0 +1,30 @@
+# FastAPI & ASGI server
+fastapi
+uvicorn[standard]
+
+# Flask & CORS
+flask
+flask-cors
+
+# Firebase & Firestore
+firebase-admin
+google-cloud-firestore
+
+# GDELT API wrapper
+gdeltdoc
+
+# Job scraping and data handling
+jobspy
+pandas
+
+# NLP with Transformers
+transformers
+torch
+
+# Fuzzy string matching
+fuzzywuzzy
+python-Levenshtein
+
+# Templating and HTTP requests
+jinja2
+requests

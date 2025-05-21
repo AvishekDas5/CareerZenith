@@ -1,0 +1,31 @@
+// for backend dependencies
+
+1. Open Terminal in backend
+
+2. pip install -r requirements.txt
+
+3. then again in terminal (in backend), write: npm install
+=====================================
+
+
+// for frontend dependencies
+
+1. Open Terminal in frontend
+
+2. npm install
+
+====================================
+
+// For Ollama
+
+Link: https://ollama.com/download/windows
+
+1. Download and Install Ollama
+
+2. After installation, open command prompt and write: ollama list
+
+Note: We are using a model via Ollama in our project which we need to download
+
+3. open command prompt once again and write: ollama run gemma2:latest
+
+(the command above will download model for you locally, it'll take some time to download so be patient).

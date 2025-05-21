@@ -1,0 +1,44 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*.egg-info/
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Environment config
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compiled templates/static files (if any are dynamically generated)
+static/
+templates/
+
+# PM2
+ecosystem.config.js
+
+# VSCode settings
+.vscode/
+
+# Python virtual environments
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
